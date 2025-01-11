@@ -16,10 +16,13 @@
 
 
 3. Please provide a link to the repository you are using for this class.
+
 https://github.com/sauranshbhardwaj/cs283
 
 4. Briefly describe what you want to get out of this class.
+
 I want to deepen my learnings about systems programming, get better at linux and C.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
 My only concern is that I am not very well-versed with linux and C, though I aim to take help from my professor and then learn & practice these concepts myself.
